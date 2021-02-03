@@ -15,7 +15,7 @@ __Clone the repository and change to the directory__
 ```
 $ git clone https://github.com/charlierdm/boris-bikes.git
 
-$ cd boris-bikes]
+$ cd boris-bikes
 ```
 __Install required GEMS__
 ```
