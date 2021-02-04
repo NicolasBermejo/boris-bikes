@@ -9,23 +9,32 @@ This is a solution to the [Makers Academy week 1 challenge](https://github.com/m
 
 To create a program in Ruby using Test Driven Development practices. The program emulates the docking system, bikes and infrastructure required to make Boris Bikes a reality. Unit tests were completed using RSpec
 
-## Installation instructions
+## How to use ##
 
-__Clone the repository and change to the directory__
-```
-$ git clone https://github.com/charlierdm/boris-bikes.git
-
-$ cd boris-bikes
-```
-__Install required GEMS__
-```
-$ gem install bundle
-$ bundle
+```shell
+ruby boris_bike.rb
 ```
 
-## ~~Tests~~ ##
+## User Story ##
 
-## ~~How to use~~ ##
+```
+As a person,
+So that I can use a bike,
+I'd like a docking station to release a bike.
+```
 
+| Object  | Messages |
+| ------------- |:-------------:|
+| Person     |    |
+| docking_station | release_bike|
 
-_WIP_
+```
+As a person,
+So that I can use a good bike,
+I'd like to see if a bike is working
+```
+
+| Object  | Messages |
+| ------------- |:-------------:|
+| Person     |    |
+| bike      | find_condition |
