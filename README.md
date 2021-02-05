@@ -37,7 +37,3 @@ I'd like to see if a bike is working
 | ------------- |:-------------:|
 | Person     |    |
 | bike      | find_condition |
-
-## Progression Diagram ##
-
-![alt text.](/Projects/boris-bikes1/Diagram_step13.PNG)

@@ -6,6 +6,7 @@ class DockingStation
   end
 
   def dock(bike)
+    fail 'There is already a bike there' if @bike
     @bike = bike
   end
 end
