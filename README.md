@@ -40,4 +40,4 @@ I'd like to see if a bike is working
 
 ## Progression Diagram ##
 
-![This is a alt text.](https://ibb.co/w4MykcR)
+![This is a alt text.](https://bit.ly/36KghCq)
