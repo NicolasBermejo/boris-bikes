@@ -1,5 +1,9 @@
 class DockingStation
   attr_reader :bike
+  def initialize
+    
+  end  
+  
   def release_bike
     fail 'There is no bikes' unless @bike
     @bike
