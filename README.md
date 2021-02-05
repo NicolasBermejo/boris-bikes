@@ -40,4 +40,4 @@ I'd like to see if a bike is working
 
 ## Progression Diagram ##
 
-![alt text.](https://bit.ly/36KghCq "step 13 diagram")
+![alt text.](/Projects/boris-bikes1/Diagram_step13.PNG)
